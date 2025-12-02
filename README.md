@@ -1,6 +1,6 @@
 # Doodax.com - Intelligent Text Simplification Platform
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Doodax.com-blue?style=for-the-badge)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Doodax.com-blue?style=for-the-badge)](https://doodax.com/tools/text-simplification-tool/index.html)
 
 **Doodax.com** is a state-of-the-art, single-page web application engineered to simplify complex English text for better comprehension. Designed with a focus on accessibility and education, it serves students, educators, and non-native speakers by providing instant lexical simplification and vocabulary building tools.
 
